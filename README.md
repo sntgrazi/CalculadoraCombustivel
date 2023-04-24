@@ -5,6 +5,14 @@ Um app para saber qual combustivel é mais vantajoso
 - React-Native 
 - Expo
 
-https://user-images.githubusercontent.com/99621932/234083538-caa1472d-e21b-4227-8e68-1f0cfd2a9853.mp4
+<iframe id="video" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+
+<style>
+#video {
+  width: 500px;
+  height: 300px;
+}
+</style>
+
 
 
